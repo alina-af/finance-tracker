@@ -29,4 +29,4 @@ finance_tracker.py  → Main program
 alinas_finance.csv  → Stores saved transactions (created automatically)
 
 ## Author
-Alina
+Alina Afarand
