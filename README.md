@@ -30,7 +30,7 @@ alinas_finance.csv  → Stores saved transactions (created automatically)
 
 ## Screenshot
 
-![finance-tracker](screenshot.png)
+Screenshot.png
 
 ## Author
 Alina Afarand
