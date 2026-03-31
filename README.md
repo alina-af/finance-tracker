@@ -28,5 +28,9 @@ python finance_tracker.py
 finance_tracker.py  → Main program  
 alinas_finance.csv  → Stores saved transactions (created automatically)
 
+## Screenshot
+
+![finance-tracker](screenshot.png)
+
 ## Author
 Alina Afarand
